@@ -1,0 +1,5 @@
+rootProject.name = 'Feign-Client-Practice'
+include 'Customer'
+include 'Product'
+include 'Order'
+
